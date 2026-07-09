@@ -1,0 +1,12 @@
+# GitHub HEAD-стан (для брифу: чи були нові коміти)
+*Оновлює щогодинний бриф автоматично. Останнє: 24.06.2026 08:07*
+
+> 24.06 08:07 (ср, ранкова картина · api.github.com HEAD-и, token): 🟢 **oneq develop +1 — `16bdda7062`** (23.06 **22:55** Київ, gordienko «feat(integrations): integrations page, route and sidebar nav») — це **ФРОНТ** (integrations page+sidebar nav), Даня рухає саме те, що болить (попередній 83dcb4ad 22.06 22:19 Oleksii = бекенд order-sum). 🔴 **key-space develop `076169610a` БЕЗ ЗМІН з 18.06** (Макс «deal links tab») — **6-й день, ядро платформи стоїть** попри активні клієнтські репо. **ubc develop `7c22f71b76`** (23.06 15:05 Макс «Restore homepage quiz result text» — рухався вчора: gordienko home + Макс quiz/placement ×кілька). orders 29 / pipeline 29 — baseline, 0 нових карток.
+
+> 22.06 09:10 (пн пульс): ls-remote 3 репо (token). **За вихідні (сб–нд) комітів НЕ було.** key-space develop **076169610a** (був f1c43d66 16.06 — рухався 17–19.06), oneq develop **c88af4b8** (останній коміт пт 19.06 14:26 Oleksii «fix(ai-search): compact KeyCRM rows»; у пт Даня+Льоша підняли фронт↔бекенд+AI-пошук+рекомендації), ubc develop **0529414d** / main 7d653c28 (Льоша брав RAG-задачу на вихідні — у репо ще не запушено).
+
+> 16.06 17:08 (пульс): 🟢 **key-space develop +1 — f1c43d66** (був a3c054cd). Макс 16:47 «feat: status success/rejection groups, comment ins…» — групи статусів success/відмова + коментарі; Артем активно рев'ює UI платформи [KeySpace #661-695]. 🔴 oneq develop 1acff5ce — БЕЗ змін, тиждень без комітів (останній 09.06); власник фронту мав закріпитись на Страті 13:00 — підсумок не підтверджено. ubc develop 0cf1649a / main 7d653c28 — без змін (Льоша на дипломі, B2FirstWriting не запушено). ⚠️ git ls-remote у цій сесії блокувався — HEAD-и брав через api.github.com з токеном (.secrets/github.token).
+
+> 16.06 08:57 (легкий пульс): ls-remote 3 репо БЕЗ змін за ніч — key-space develop a3c054cd, oneq develop 1acff5ce (🔴 **9-й день тиші** з 08.06), ubc develop 0cf1649a / main 7d653c28. B2FirstWriting Льоші ще не запушено (16.06 захист диплому — очікувана відсутність). Власник фронту ONEQ не закріплений — рішення на Страті сьогодні 13:00.
+
+> 15.06 18:57 (легкий пульс): ls-remote 3 репо БЕЗ змін за годину — key-space develop a3c054cd, oneq develop 1acff5ce (🔴 8-й день тиші з 08.06), ubc develop 0cf1649a / main 7d653c28. Льошин B2FirstWriting у репо ще нема (завтра 16.06 диплом — очікувана відсутність).
